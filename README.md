@@ -16,6 +16,7 @@ El objetivo principal es afianzar conocimientos clave del lenguaje y su utilidad
 
 Curso completo de JavaScript - MoureDev  
 [Canal de YouTube](https://www.youtube.com/@mouredev)
+
 [Vídeo del Curso](https://www.youtube.com/watch?v=1glVfFxj8a4&t=7455s)
 
 ---
@@ -75,7 +76,7 @@ Entender el flujo de errores y buenas prácticas
 
 Aprender a trabajar con módulos y estructuras limpias
 
-Créditos
-Proyecto basado en el curso gratuito de:
-@MoureDev
+## Créditos
+Proyecto basado en el curso gratuito de: @MoureDev
+
 YouTube: Curso COMPLETO de JavaScript DESDE CERO para Principiantes (https://www.youtube.com/watch?v=1glVfFxj8a4&t=7455s)
