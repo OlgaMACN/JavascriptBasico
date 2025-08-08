@@ -15,6 +15,7 @@ El objetivo principal es afianzar conocimientos clave del lenguaje y su utilidad
 ## Curso seguido
 
 Curso completo de JavaScript - MoureDev  
+
 [Canal de YouTube](https://www.youtube.com/@mouredev)
 
 [Vídeo del Curso](https://www.youtube.com/watch?v=1glVfFxj8a4&t=7455s)
